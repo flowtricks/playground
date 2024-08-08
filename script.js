@@ -1,1 +1,1 @@
-$("body").css("color", "green")
+$("body").css("color", "blue")
